@@ -42,7 +42,7 @@ pappeske i hyllen der inne, markert med hva innholdet er.
 
 ## Manuell justering av timer i Leancast
 
-Det ble justert timer med har SQL-hånd hvor det var behov.
+Det ble justert timer med hard SQL-hånd hvor det var behov.
 
 ## Oppdatering av firmware på alle AP i G9
 
