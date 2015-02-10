@@ -9,6 +9,7 @@ Changelog Operations
 6. Oppdatering av firmware alle AP i G9
 7. Forsøk på rens av støvsuger
 8. Vask og rydd av kjøkken med kaffetrakter/kolber.
+9. Startet prosess rundt innkjøpt av mikrofon og lydanlegg til G9
 
 
 ## Gamle kontoer fjernet
@@ -56,3 +57,10 @@ Den er død. Kan nå kastes. (Full av byggstøv).
 
 Kjøkkenet ble vasket, kolbene ble vasket i maskin, benk vasket etc. Såpe og
 vann, hand i hand.
+
+## Startet prosess rundt innkjøpt av mikrofon og lydanlegg til G9
+
+Undersøkt receivere til lydanlegg, og sjekket opp forskjellige alternativer
+for "konferanse-mikrofon" vi kan bruke til foredrag og lyntaler. Skal snakke
+med HiFi-klubben og kanskje andre for å få tilbud og anbefalinger som kan passe
+våre lokaler.
